@@ -39,5 +39,9 @@ The application handles WebRTC signaling (SDP offer/answer and ICE candidate exc
 - **RBAC**: Role-Based Access Control for secure Admin operations.
 - **Privacy First**: No sensitive `.env` data or local paths are ever exposed.
 
+## 📄 License
+
+This project is licensed under a **Proprietary License**. Unauthorized use is strictly prohibited. See the [LICENSE](LICENSE) file for details.
+
 ---
 *Created for performance. Designed for people.*

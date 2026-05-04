@@ -37,3 +37,6 @@ Thumbs.db
 
 # Temporarily ignored non-functional files
 frontend/src/pages/AdminDashboard.jsx
+
+# Privacy: Personal parsing scripts
+parser.py
